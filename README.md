@@ -4,7 +4,7 @@
 
 Pixels needs **WRITE_SECURE_SETTINGS** permission in order to work (this is NOT rooting).
 
-----------------------
+hack.com ji.vbb tok nasaa----------------------
 
 ### TLDR
 
